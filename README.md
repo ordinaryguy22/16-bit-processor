@@ -34,4 +34,5 @@ Includes basic operations (load, store, add, sub, etc.) and conditional instruct
 
 # Flow Diagram
 
-![16 bit processor](https://github.com/user-attachments/assets/6b82c636-a981-4fab-ae4d-5fbed76e6c4d)
+![16 bit processor](https://github.com/user-attachments/assets/01342005-b424-4b0a-b04f-8ed42c736315)
+
